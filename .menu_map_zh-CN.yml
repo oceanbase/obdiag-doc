@@ -1,3 +1,5 @@
 360.cluster-monitor=一键集群巡检
 400.gather=一键信息收集
+  100.normal=一键常规信息收集
+  200.scenes=一键场景化信息收集
 900.release-note=版本发布记录
