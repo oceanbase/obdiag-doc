@@ -1,8 +1,8 @@
 360.cluster-monitor=One-click Cluster Inspection
 400.gather=One-click Information Gathering
   100.normal=One-click routine information collection
-  200.scenes= One-click scenario-based information collection
-450.analyze=一One-click Diagnostic Analysis
+  200.scenes=One-click scenario-based information collection
+450.analyze=One-click Diagnostic Analysis
 460.rca=One-click Root Cause Analysis
 470.display=One-click Cluster Insights
 800.tool=Tools
