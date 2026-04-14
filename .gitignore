@@ -1,2 +1,5 @@
 .venv-trans/
 scripts/
+# Slug exports (local; regenerate on 430 when needed)
+scripts/slug-export*.json
+scripts/slug-export*.csv
